@@ -173,7 +173,7 @@ All KPI cards and visualizations respond dynamically to the selected filters, en
 ![Product Analysis Dashboard](Product%20Analysis%20Dashboard.png)
 
 ### Customer & Regional Analysis Dashboard
-![Customer & Regional Analysis Dashboard](Customer%20Regional%20Dashboard.png)
+![Customer and Regional Analysis Dashboard](Customer%20Regional%20Analysis%20Dashboard.png)
 
 ---
 
